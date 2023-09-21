@@ -1,3 +1,7 @@
+## 0.3.30
+
+- Add the kelp parameter.
+
 ## 0.3.29
 
 - Fix an issue rendering longer changelogs (#170).
