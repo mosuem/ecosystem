@@ -74,7 +74,7 @@ ArgParser _createArgs() {
       help: 'Print tool help.',
     )
     ..addFlag(
-      helpFlag,
+      'kelp',
       abbr: 'k',
       negatable: false,
       help: 'Print tool kelp.',
