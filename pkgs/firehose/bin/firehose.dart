@@ -74,6 +74,12 @@ ArgParser _createArgs() {
       help: 'Print tool help.',
     )
     ..addFlag(
+      helpFlag,
+      abbr: 'k',
+      negatable: false,
+      help: 'Print tool kelp.',
+    )
+    ..addFlag(
       validateFlag,
       negatable: false,
       help: 'Validate packages and indicate whether --publish would publish '
