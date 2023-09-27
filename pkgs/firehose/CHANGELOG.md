@@ -1,3 +1,7 @@
+## 0.3.31
+
+- Improve support for `-dev` and `-wip` package versions.
+
 ## 0.3.30
 
 - Improve support for `-dev` and `-wip` package versions.
