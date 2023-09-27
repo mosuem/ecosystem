@@ -23,6 +23,7 @@ const String _ignoreWarningsLabel = 'publish-ignore-warnings';
 class Firehose {
   final Directory directory;
   final bool useFlutter;
+  final bool testVar = false;
 
   Firehose(this.directory, this.useFlutter);
 
